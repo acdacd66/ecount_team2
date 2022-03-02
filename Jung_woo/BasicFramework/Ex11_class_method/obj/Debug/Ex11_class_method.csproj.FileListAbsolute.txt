@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\obj\Debug\Ex11_class_method.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\obj\Debug\Ex11_class_method.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\obj\Debug\Ex11_class_method.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\bin\Debug\Ex11_class_method.exe.config
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\bin\Debug\Ex11_class_method.exe
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\bin\Debug\Ex11_class_method.pdb
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\obj\Debug\Ex11_class_method.exe
+C:\Users\r2com\Desktop\team2\ecount_team2\Jung_woo\BasicFramework\Ex11_class_method\obj\Debug\Ex11_class_method.pdb

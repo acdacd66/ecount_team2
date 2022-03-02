@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\bin\Debug\Ex10_class.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\bin\Debug\Ex10_class.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\bin\Debug\Ex10_class.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\obj\Debug\Ex10_class.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\obj\Debug\Ex10_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\obj\Debug\Ex10_class.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\obj\Debug\Ex10_class.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex10_class\obj\Debug\Ex10_class.pdb

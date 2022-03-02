@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\bin\Debug\Homework.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\bin\Debug\Homework.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\bin\Debug\Homework.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\obj\Debug\Homework.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Homework\obj\Debug\Homework.pdb
